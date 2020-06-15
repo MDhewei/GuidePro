@@ -4,7 +4,9 @@ GuidePro is a two-layer ensemble predictor that enables the integration of multi
 
 ![](Figures/Workflow.png)
 
-The source codes for model training are included in [Model_Training.ipynb](https://github.com/MDhewei/GuidePro/blob/master/Model_Training.ipynb)
+The source codes for model training are included in [Model_Training.ipynb](https://github.com/MDhewei/GuidePro/blob/master/Model_Training.ipynb) file, it contains the codes to reproduce all the results about feature importance, cross-validation, model training and comparison.
+
+The source codes for comparing different methods are included in [Model_Testing.ipynb](https://github.com/MDhewei/GuidePro/blob/master/Model_Testing.ipynb) file, it contains the codes to reproduce the results about performance comparison between our method and other programs on dependent and independent datasets
 
 Contacts for any questions or requests: 
 whe3@mdanderson.org
