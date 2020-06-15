@@ -4,6 +4,8 @@ GuidePro is a two-layer ensemble predictor that enables the integration of multi
 
 ![](Figures/Workflow.png)
 
-Contacts for other questions and requests: 
+The source codes for model training are included in [Model_Training.ipynb](https://github.com/MDhewei/GuidePro/blob/master/Model_Training.ipynb)
+
+Contacts for any questions or requests: 
 whe3@mdanderson.org
 
