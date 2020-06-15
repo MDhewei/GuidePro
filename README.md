@@ -11,7 +11,6 @@ sgRNA design for any given protein-coding gene, please check our online tool at 
 Contacts for any questions or requests: 
 whe3@mdanderson.org
 
-#![Schematic of GuidePro workflow](Figures/Workflow.png)
-<img src="Figures/Workflow.png"  height="330" width="495">
+<img src="Figures/Workflow.png"  height="400" width="600" align='center'>
 
 
