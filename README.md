@@ -11,6 +11,6 @@ sgRNA design for any given protein-coding gene, please check our online tool at 
 Contacts for any questions or requests: 
 whe3@mdanderson.org
 
-<div align="center"><img src="Figures/Workflow.png"  height="500" width="800"></div>
+<div align="center"><img src="Figures/Workflow.png"  height="500" width="700"></div>
 
 
