@@ -8,6 +8,8 @@ GuidePro is a two-layer ensemble predictor that enables the integration of multi
 
 [Model_Testing.ipynb](https://github.com/MDhewei/GuidePro/blob/master/Model_Testing.ipynb): The source codes to reproduce the results about performance comparison between our method and other programs on dependent and independent datasets
 
+## Download the genome-wide top10 prioritized sgRNA or sgRNAs for user-defined gene-list [here](https://github.com/MDhewei/GuidePro/blob/master/Downloads)
+
 Contacts for any questions or requests: 
 whe3@mdanderson.org
 
