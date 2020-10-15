@@ -1,7 +1,9 @@
 ### Download the genome-wide sgRNA files 
 
 Human(hg19): Genome-wide-sgRNA-Selection-human.csv
+
 mouse(mm10): Genome-wide-sgRNA-Selection-mouse.csv
+
 monkey((chlSab2): Genome-wide-sgRNA-Selection-monkey.csv
 
 
