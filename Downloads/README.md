@@ -23,4 +23,8 @@ python sgSelection.py mouse gene_list.txt
 ```
 python sgSelection.py monkey gene_list.txt
 ```
+#### Two output files will be generated:
 
+- Query-sgRNA-Selection.csv: top10 sgRNA sequences and information for input gene list
+
+- gene_undetermined.txt: genes that are not found in the database, try with other alias names.
