@@ -14,7 +14,7 @@ import pandas as pd
 genome, genefile = sys.argv[1:3]
 
 df_genome = pd.read_csv('Genome-wide-sgRNA-Selection-'+genome+'.csv')
-f = open('Genes_undetermined.txt','w')
+f = open('genes_undetermined.txt','w')
 
 filelist = open(genefile).readlines()
 
