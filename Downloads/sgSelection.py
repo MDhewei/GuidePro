@@ -14,6 +14,7 @@ import pandas as pd
 genome, genefile = sys.argv[1:3]
 
 df_genome = pd.read_csv('Genome-wide-sgRNA-Selection-'+genome+'.csv')
+f = open('Genes_undetermined.txt','w')
 
 filelist = open(genefile).readlines()
 
@@ -21,9 +22,13 @@ df = pd.DataFrame()
 for gene in filelist:
     print('Extracting sgRNA for %s'%gene.strip('\n'))
     df_gene = df_genome[df_genome['gene']==gene.strip('\n')]
-    df = pd.concat([df,df_gene])
+    if df_gene.shape[0]==0:
+        f.write(gene)
+    else: df = pd.concat([df,df_gene])
+
 print('Saving files ...')    
 df.to_csv('Query-sgRNA-Selection.csv',index=False)
+
 print('Done!')
     
 
