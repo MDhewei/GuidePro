@@ -4,7 +4,7 @@ GuidePro is a two-layer ensemble predictor that enables the integration of multi
 
 Please cite the following publication if you use GuidePro:
 
-Wei He, Helen Wang, Yanjun Wei, Zhiyun Jiang, Yitao Tang, Yiwen Chen, Han Xu, GuidePro: A multi-source ensemble predictor for prioritizing sgRNAs in CRISPR/Cas9 protein knockouts, Bioinformatics, , btaa1068, https://doi.org/10.1093/bioinformatics/btaa1068
+Wei He, Helen Wang, Yanjun Wei, Zhiyun Jiang, Yitao Tang, Yiwen Chen, Han Xu, GuidePro: A multi-source ensemble predictor for prioritizing sgRNAs in CRISPR/Cas9 protein knockouts, Bioinformatics,  btaa1068, https://doi.org/10.1093/bioinformatics/btaa1068
 
 <div align="center"><img src="Figures/Workflow.png"  height="500" width="700"></div>
 
